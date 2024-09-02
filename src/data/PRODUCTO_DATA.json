@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Soup - French Onion",
+    "price": 28.89,
+    "expiration_date": "10/9/2022",
+    "quantity": 364,
+    "categoryId": "bakery",
+    "description": "A classic French onion soup with rich, caramelized onions, flavorful broth, and a hint of thyme. Perfect for a cozy meal or as a starter.",
+    "imageId": "https://i5.walmartimages.com/seo/Campbell-s-Condensed-French-Onion-Soup-10-5-oz-Can_73abc55e-4469-4c44-8d57-7ed2eeaf08d2.2fc9db833ddc986a644690bf0dfae399.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 2,
+    "title": "Cabbage - Savoy",
+    "price": 73.64,
+    "expiration_date": "3/18/2022",
+    "quantity": 231,
+    "categoryId": "fruit",
+    "description": "Fresh Savoy cabbage with a crisp texture and a mild, slightly sweet flavor. Ideal for salads, slaws, or adding a crunchy element to your dishes.",
+    "imageId": "https://i5.walmartimages.com/seo/Savoy-Perfection-Cabbage-Seeds-200-Count-Seed-Pack-A-Large-Drumhead-Type-That-Finely-Wrinkled-savoyed-Leaves-mild-Sweet-Flavor-Country-Creek-LLC_d09931a1-7256-4d38-b1d5-abc565b7cff0.57858b2184130aae1ce13e85fc83ef75.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 3,
+    "title": "Duck - Fat",
+    "price": 68.92,
+    "expiration_date": "5/23/2022",
+    "quantity": 477,
+    "categoryId": "meat",
+    "description": "High-quality duck fat, perfect for adding rich flavor to your dishes. Use it for roasting, frying, or as a base for sauces.",
+    "imageId": "https://i5.walmartimages.com/seo/Maple-Leaf-All-Natural-Medium-Whole-Duck-4-25-to-5-75-Pound-6-per-case_081e36cd-624f-4cad-9f42-4c88a273f47c.540961b298f777b2334479db7b56a17a.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 4,
+    "title": "Wine - Magnotta - Pinot Gris Sr",
+    "price": 49.43,
+    "expiration_date": "5/30/2023",
+    "quantity": 951,
+    "categoryId": "daily",
+    "description": "A crisp and refreshing Pinot Gris with notes of green apple, pear, and a hint of citrus. Perfect for pairing with light dishes or enjoying on its own.",
+    "imageId": "https://i5.walmartimages.com/seo/Menage-a-Trois-Limelight-Pinot-Grigio-California-White-Wine-750-ml-Glass-Bottle-13-ABV_a28a5e0f-825b-4552-b541-b9a6557c78a9.43903548826c92111e5c6ab49aa2a92a.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 5,
+    "title": "Clam - Cherrystone",
+    "price": 61.55,
+    "expiration_date": "2/4/2022",
+    "quantity": 655,
+    "categoryId": "meat",
+    "description": "Fresh Cherrystone clams, known for their tender and sweet meat. Ideal for steaming, grilling, or adding to your favorite seafood recipes.",
+    "imageId": "https://i5.walmartimages.com/seo/SeaPak-Clam-Strips-in-a-Delicious-Oven-Crunchy-Breading-Frozen-10-oz_2dcf4d29-5421-4f5d-aca8-c8a741af906f.ae2937164870e6e74061139faa509835.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 6,
+    "title": "Carrots - Purple, Organic",
+    "price": 33.06,
+    "expiration_date": "4/3/2023",
+    "quantity": 649,
+    "categoryId": "fruit",
+    "description": "Organic purple carrots with a sweet and earthy flavor. Packed with nutrients, they add vibrant color to your salads, stews, and roasted dishes.",
+    "imageId": "https://i5.walmartimages.com/seo/Fresh-Shredded-Carrots-10-oz-Bag_35817df3-4652-4035-9e07-0d073658c7d3.f739e89b28b14d00be573312547a31db.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 7,
+    "title": "Cheese - Grie Des Champ",
+    "price": 90.65,
+    "expiration_date": "12/27/2022",
+    "quantity": 965,
+    "categoryId": "daily",
+    "description": "Grie Des Champ cheese, a rich and creamy cheese with a slightly tangy flavor. Perfect for cheese boards, sandwiches, or melting over dishes.",
+    "imageId": "https://i5.walmartimages.com/seo/Great-Value-Finely-Shredded-Fiesta-Blend-Cheese-8-oz_5127b37a-3b27-42a9-8d3a-b971b90881bd.f935534052cc2f7792b8c3d017b0d5ce.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 8,
+    "title": "Pears - Anjou",
+    "price": 68.06,
+    "expiration_date": "1/5/2023",
+    "quantity": 807,
+    "categoryId": "daily",
+    "description": "Juicy and sweet Anjou pears, perfect for snacking, adding to salads, or using in desserts. Their smooth texture makes them a versatile fruit.",
+    "imageId": "https://i5.walmartimages.com/seo/Great-Value-Canned-Pear-Halves-in-Heavy-Syrup-29-oz-Can_13e26588-f718-4533-865f-a4c4dc3405fc.fd0e800829149ef90230be1e85a8734f.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 9,
+    "title": "Apple - Granny Smith",
+    "price": 45.12,
+    "expiration_date": "11/30/2023",
+    "quantity": 500,
+    "categoryId": "fruit",
+    "description": "Crisp and tart Granny Smith apples, ideal for baking, snacking, or adding a refreshing crunch to salads. A classic apple variety loved by many.",
+    "imageId": "https://i5.walmartimages.com/seo/Fresh-Honeycrisp-Apples-3-lb-Bag_3c15af5a-f051-40e8-a8cf-7005d68b1f68.8f7361db8c364fb7c7a367348b51d26d.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 10,
+    "title": "Banana - Organic",
+    "price": 20.45,
+    "expiration_date": "12/15/2023",
+    "quantity": 400,
+    "categoryId": "fruit",
+    "description": "Organic bananas with a sweet flavor and creamy texture. Perfect for smoothies, baking, or enjoying as a healthy snack on the go.",
+    "imageId": "https://i5.walmartimages.com/seo/Marketside-Fresh-Organic-Bananas-Bunch_4b15d1c6-03e7-489b-96cb-7d4b1edeb927.042464e5bc52fa0421f255d04ec525a4.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 11,
+    "title": "Orange - Navel",
+    "price": 35.9,
+    "expiration_date": "1/10/2024",
+    "quantity": 300,
+    "categoryId": "fruit",
+    "description": "Juicy Navel oranges, bursting with sweet and tangy flavor. A perfect source of vitamin C, ideal for juicing, snacking, or adding to salads.",
+    "imageId": "https://i5.walmartimages.com/seo/Fresh-Organic-Oranges-3-lb-Bag_35e5e43b-d7f7-4c05-ad55-d2df5404c1cd_1.8a8b9be88694f526967d6d5b24c78bae.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 12,
+    "title": "Grapes - Red Seedless",
+    "price": 30.5,
+    "expiration_date": "12/20/2023",
+    "quantity": 350,
+    "categoryId": "fruit",
+    "description": "Sweet and crisp red seedless grapes, perfect for snacking, adding to fruit salads, or as a refreshing addition to cheese boards.",
+    "imageId": "https://i5.walmartimages.com/seo/Fresh-Red-Seedless-Grapes-Bag-2-25-lbs-Bag-Est_8e59c7de-1534-42f6-8ac7-9460aa0b45c4.f17a453b10f3c60533eef3abb0d7519a.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 13,
+    "title": "Milk - Whole",
+    "price": 15.3,
+    "expiration_date": "12/25/2023",
+    "quantity": 700,
+    "categoryId": "daily",
+    "description": "Rich and creamy whole milk, perfect for drinking, adding to coffee, or using in recipes. A staple daily product with a smooth taste.",
+    "imageId": "https://i5.walmartimages.com/seo/Great-Value-Milk-Whole-Vitamin-D-Gallon-Plastic-Jug_6a7b09b4-f51d-4bea-a01c-85767f1b481a.86876244397d83ce6cdedb030abe6e4a.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 14,
+    "title": "Butter - Unsalted",
+    "price": 45.0,
+    "expiration_date": "1/15/2024",
+    "quantity": 600,
+    "categoryId": "daily",
+    "description": "High-quality unsalted butter, perfect for baking, cooking, or spreading. Its pure flavor makes it a versatile ingredient in the kitchen.",
+    "imageId": "https://i5.walmartimages.com/seo/Country-Crock-Original-Vegetable-Oil-Spread-45-oz-Tub-Refrigerated_11dd45f9-d4d1-496f-af6c-553f587b85a5.503ad4d56414aef41a49bb514ec0db20.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 15,
+    "title": "Yogurt - Greek, Plain",
+    "price": 35.75,
+    "expiration_date": "1/5/2024",
+    "quantity": 500,
+    "categoryId": "daily",
+    "description": "Thick and creamy Greek yogurt, plain and unsweetened. A versatile ingredient for breakfast, smoothies, or as a healthy snack with fruit and nuts.",
+    "imageId": "https://i5.walmartimages.com/seo/Stonyfield-Organic-Greek-Nonfat-Yogurt-Plain-32-oz_1bd760cb-3b3b-4a7c-84ca-fe74628e44a0.c2f0e0dd7341c4189ad017dd6849ec50.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 16,
+    "title": "Cheese - Cheddar, Sharp",
+    "price": 55.2,
+    "expiration_date": "12/30/2023",
+    "quantity": 450,
+    "categoryId": "daily",
+    "description": "Sharp Cheddar cheese with a rich, tangy flavor. Perfect for cheese boards, melting over dishes, or adding to sandwiches and burgers.",
+    "imageId": "https://i5.walmartimages.com/seo/Great-Value-Finely-Shredded-Mild-Cheddar-Cheese-8-oz_8502ddc0-bdf0-42c2-be27-189e0e671477.b9d05d14cb098ed72bd8e84843566e1c.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 17,
+    "title": "Croissant - Butter",
+    "price": 15.8,
+    "expiration_date": "12/22/2023",
+    "quantity": 300,
+    "categoryId": "bakery",
+    "description": "Flaky and buttery croissants, perfect for breakfast or a snack. These classic French pastries are made with high-quality butter for a rich taste.",
+    "imageId": "https://i5.walmartimages.com/seo/Marketside-All-Butter-Whole-Croissants-9-5-oz-6-Count_838adc42-4834-41c1-ab8e-f3ccfff428b5.27ab5e19d5f7da52c041efa6a26ab0b8.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 18,
+    "title": "Bread - Sourdough",
+    "price": 25.5,
+    "expiration_date": "12/30/2023",
+    "quantity": 450,
+    "categoryId": "bakery",
+    "description": "Artisan sourdough bread with a crisp crust and a chewy, tangy interior. Ideal for sandwiches, toasting, or as a side to your favorite meals.",
+    "imageId": "https://i5.walmartimages.com/seo/Alfaro-s-Artesano-Original-Flavor-Bakery-Bread-No-Artificial-Colors-or-Flavors-1-Pound-4-Ounce-Loaf_95c7abc1-aab9-4273-90e9-872435e60c83.623f07067f467f21ec88619aec14a5cf.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 19,
+    "title": "Muffin - Blueberry",
+    "price": 12.75,
+    "expiration_date": "12/28/2023",
+    "quantity": 350,
+    "categoryId": "bakery",
+    "description": "Soft and moist blueberry muffins, filled with juicy blueberries. A delightful treat for breakfast, snack time, or dessert.",
+    "imageId": "https://i5.walmartimages.com/seo/Little-Bites-Chocolate-Chip-Muffins-10-packs-Soft-Mini-Muffins-16-5-oz-Box_6c555211-e551-4411-aa4e-1e3f74f907dd.7e7939ee135be1fc32781e7d07de1bed.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 21,
+    "title": "Organic Turkey Breast",
+    "price": 45.0,
+    "expiration_date": "11/30/2023",
+    "quantity": 120,
+    "categoryId": "meat",
+    "description": "Lean and tender organic turkey breast, free of antibiotics and hormones. Ideal for roasting or slicing for sandwiches.",
+    "imageId": "https://i5.walmartimages.com/seo/Butterball-Gluten-Free-Oven-Roasted-Turkey-Breast-Deli-Sliced_2e4cb0b7-042e-416a-ae7f-bffcc64debc4.ba61d0fefe85300b81057770f2895d60.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 22,
+    "title": "Free-Range Chicken Thighs",
+    "price": 30.0,
+    "expiration_date": "12/10/2023",
+    "quantity": 200,
+    "categoryId": "meat",
+    "description": "Juicy and flavorful chicken thighs from free-range birds. Perfect for grilling, baking, or slow cooking.",
+    "imageId": "https://i5.walmartimages.com/seo/Foster-Farms-Fresh-Bone-In-Chicken-Thighs-Family-Pack-19g-Protein-per-4-oz-4-0-5-5-lb-Tray_0ca22477-4881-4aa8-8404-1fa0b736887d.ab6ee74310c431f14fea093fecd0d722.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 23,
+    "title": "Heritage Pork Chops",
+    "price": 50.0,
+    "expiration_date": "12/15/2023",
+    "quantity": 180,
+    "categoryId": "meat",
+    "description": "Thick-cut pork chops from heritage breed pigs, known for their superior flavor and marbling. Perfect for grilling or pan-searing.",
+    "imageId": "https://i5.walmartimages.com/seo/Smithfield-Signature-Ground-Pork-32-oz_e84d69fa-0e55-42a0-9f93-9ed0699d232d.7dba47e8503a019c04d0477313eb4c67.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 24,
+    "title": "Grass-Fed Lamb Loin Chops",
+    "price": 65.0,
+    "expiration_date": "12/20/2023",
+    "quantity": 140,
+    "categoryId": "meat",
+    "description": "Tender lamb loin chops from grass-fed lambs, offering a rich and earthy flavor. Ideal for grilling or broiling.",
+    "imageId": "https://i5.walmartimages.com/seo/Marketside-Butcher-Ground-Lamb-80-20-1-lb-Fresh_c96dfc84-77cb-4191-94da-6079263f44da.99a6c344905912367d9e5dada19c8484.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  },
+  {
+    "id": 25,
+    "title": "Plant-Based Ground Beef",
+    "price": 25.0,
+    "expiration_date": "01/15/2024",
+    "quantity": 250,
+    "categoryId": "meat",
+    "description": "Plant-based ground beef alternative made from organic ingredients. Great for burgers, tacos, and meatless recipes.",
+    "imageId": "https://i5.walmartimages.com/seo/Gardein-Plant-Based-Ground-Be-f-Vegan-13-7-oz-Frozen_595dcb66-27f3-4d83-b8c7-4fb2a365dc5d.d6564b334aab2bff1ba0f73b81839cfe.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+  }
+]

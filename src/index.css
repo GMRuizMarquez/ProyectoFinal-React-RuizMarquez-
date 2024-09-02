@@ -1,0 +1,13 @@
+.navbar-green {
+  background-color: #4caf50;
+  border-bottom: 1px solid #388e3c;
+}
+
+.navbar-green .navbar-brand,
+.navbar-green .nav-link {
+  color: #ffffff;
+}
+
+.navbar-green .nav-link:hover {
+  color: #c8e6c9;
+}
